@@ -2,11 +2,11 @@ Tutorial - Automated installation and mine for blocks with Microsoft Windows Ins
 
 The tutorial is compatible with Windows 10 and above.
 
-Click here to download the file luxcoin-auto.zip.
+Click here to download the file luxcoin-auto.zip or luxcoin-auto.sh
 
 Open File Explorer and go to your downloads directory.
 
-Right click the zip file luxcoin-auto.zip and select "Properties".
+Right click the zip file luxcoin-auto.zip or luxcoin-auto.sh and select "Properties".
 
 Select "Unblock".
 
